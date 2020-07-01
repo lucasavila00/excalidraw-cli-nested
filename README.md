@@ -2,7 +2,7 @@
 
 ![](docs/readme/a.excalidraw.png)
 
-# A square
+# A square with another square
 
 ![](docs/readme/b.excalidraw.png)
 

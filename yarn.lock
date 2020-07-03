@@ -143,10 +143,10 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@tommywalkie/excalidraw-cli@^0.3.6":
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/@tommywalkie/excalidraw-cli/-/excalidraw-cli-0.3.6.tgz#1cdece64c74a5be73c3cc203eccd9e0e8b9388ff"
-  integrity sha512-Nu5gUT+oEw70XCWC5eSXGvH7+FVOEThR7Kmi9/mdFN1euz8PaEBHndB/r6IzDds4zruYT00eIbPu7uNTYHF4lA==
+"@tommywalkie/excalidraw-cli@^0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@tommywalkie/excalidraw-cli/-/excalidraw-cli-0.4.1.tgz#c1cfd04a0698471a310867b3c95d6d88fe717f67"
+  integrity sha512-TsrG4ZBMovvJxCRfCwd7gS2eBLbvW8tiIxy9ccOdBMEAfBbDWseNn1SbaAgU4jgmlmvmICopRTnMiq+4nUWJHQ==
   dependencies:
     "@oclif/command" "^1"
     "@oclif/config" "^1"

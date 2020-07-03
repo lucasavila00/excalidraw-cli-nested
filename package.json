@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@tommywalkie/excalidraw-cli": "^0.3.6"
+    "@tommywalkie/excalidraw-cli": "^0.4.1"
   },
   "scripts": {
-    "build_docs": "yarn excalidraw-cli docs/readme docs/readme"
+    "build_docs": "yarn excalidraw-cli docs docs"
   }
 }
